@@ -1,0 +1,6 @@
+build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/.qmake.stash
+build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/Makefile.Debug
+*.Release
+build/Desktop_Qt_6_7_3_MinGW_64_bit-Profile/Makefile.Debug
+build/Desktop_Qt_6_7_3_MinGW_64_bit-Profile/.qmake.stash
+ProjectParams (1).pro
